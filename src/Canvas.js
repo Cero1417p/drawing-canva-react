@@ -12,7 +12,6 @@ export function Canvas() {
 
   useEffect(() => {
     prepareCanvas();
-    // eslint-disable-next-line
   },[]);
 
   return (
